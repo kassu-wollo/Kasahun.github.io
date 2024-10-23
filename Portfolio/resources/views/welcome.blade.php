@@ -272,21 +272,18 @@
                                 <h2 class="text-white ms-4 mb-0">Projects</h2>
                             </div>
                         </div>
-
                         <div class="clearfix"></div>
 
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
                                     <small class="projects-tag">Syetem</small>
-
                                     <h3 class="projects-title">Digital Kebele ID Card Management System</h3>
                                 </div>
                                     <img src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
-
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
@@ -297,11 +294,9 @@
                                 </a>
                             </div>
                         </div>
-                        
                     </div>
                 </div>
             </section>
-
             <section class="contact section-padding" id="section_5">
                     <div class="container">
                         <div class="row">
